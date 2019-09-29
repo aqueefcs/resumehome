@@ -22,8 +22,9 @@
 	position: relative;
 	width: 100%;
 	max-width: 640px;
-	max-height:360px;
+	max-height:640px;
 	margin:0px auto 0px;
+	margin-top: 40px;
 	z-index:90;
 	text-align:left; /* reset align=center */
 	font-size: 10px;
